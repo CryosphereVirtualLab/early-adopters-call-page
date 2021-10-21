@@ -15,7 +15,7 @@ The aim of the call is to explore the current capabilities of the CVL and provid
 the usability and value of the system, which will help the preparation for the operational phase.
 In particular we will be looking for feedback regarding:
 * Usability of the system
-* Fnctionality and tools
+* Functionality and tools
 * Datasets and data discovery
 
 ## Features
