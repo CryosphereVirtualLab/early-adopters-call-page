@@ -1,24 +1,38 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "Early Adopters Open Call"
+linkTitle: "Open Call Documentation"
 weight: 25
 menu:
   main:
     weight: 25
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+## Overview
+During fall/winter period of 2021 CVL consortium will release an Early Adopters Open Call.
+The call targets young carreer scientists and Master and PhD students in particular.
+The aim of the call is to explore the current capabilities of the CVL and provide feedback about
+the usability and value of the system, which will help the preparation for the operational phase.
+In particular we will be looking for feedback regarding:
+* Usability of the system
+* Fnctionality and tools
+* Datasets and data discovery
 
+## Features
+Today CVL can offer:
+* Search over comprehensive database(s) of datasets from Svalbard region.
+* Ability to import subsets of selected large datasets in local processing environment.
+* Web-based 3D visualization of geospatial information.
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project.
+## Open Science
+CVL promotes open science and will distribute results and the code used for generation of new products and visualizations.
+Curated set of functional notebooks will be distributed in [open notebooks repository](https://github.com/CryosphereVirtualLab/public-notebooks)
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section.
+## Requirements
+* Applicants must be Master or PhD students studying cryosphere or polar regions related subjects
+* Knowledge of at least one programming language, prefferebly Python.
+* Familiarity with Jupyter notebooks / Jupyter Lab software.
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
-
+## Schedule
+The call is to be released during fall/winter period of 2021. Final selection will be published during winter/spring semester in 2022.
 
